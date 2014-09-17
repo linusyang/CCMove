@@ -14,7 +14,7 @@ Install it in Cydia by adding repo http://yangapp.googlecode.com/svn.
 ## Build
 ```bash
 git clone --recursive https://github.com/linusyang/CCMove.git
-cd ChineseConv
+cd CCMove
 make package
 ```
 
