@@ -1,5 +1,8 @@
 # CCMove
-Move Control Center to Notification Center
+_Move Control Center to Notification Center_
+
+Originally by [@hamzasood](https://github.com/hamzasood)
+Port to iOS 7.1 by Linus Yang
 
 ## Introduction
 *CCMove* is a Cydia Substrate tweak that moves Control Center to Notification Center. This tweak is originally part of **MultitaskingGestures** written by [@hamzasood](https://github.com/hamzasood/MultitaskingGestures).
