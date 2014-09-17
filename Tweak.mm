@@ -152,3 +152,16 @@
 }
 
 %end
+
+
+%hook SBUIController
+
+- (void)handleShowControlCenterSystemGesture:(id)recognizer {}
+
+- (BOOL)allowSystemGestureType:(unsigned int)gestureType atLocation:(CGPoint)location {
+    if (gestureType == 0x40)
+        return NO;
+    return %orig;
+}
+
+%end
