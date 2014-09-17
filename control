@@ -1,0 +1,8 @@
+Package: com.linusyang.ccmove
+Name: CCMove
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: move control center to notification center
+Author: Linus Yang <laokongzi@gmail.com>
+Section: Tweaks
