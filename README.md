@@ -1,7 +1,7 @@
 # CCMove
 _Move Control Center to Notification Center_
 
-Originally by [@hamzasood](https://github.com/hamzasood)
+Originally by [@hamzasood](https://github.com/hamzasood)     
 Port to iOS 7.1 by Linus Yang
 
 ## Introduction
